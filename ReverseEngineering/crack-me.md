@@ -1,4 +1,4 @@
-The encrypted text and decryption function is on the script. All we need to do is call the decode_secret function with a parameter which is declared globally, named bezos_cc_secret. Edit the script by adding this at the end of the file:
+The encrypted text and decryption function is on the script. All we need to do is call the decode_secret function with a parameter which is declared globally, named bezos_cc_secret. Edit the script by adding this at the end of the script:
 
 ```decode_secret("A:4@r%uL`M-^M0c0AbcM-MFE0g4dd`_cgN")```
 
