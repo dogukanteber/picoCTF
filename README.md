@@ -1,5 +1,3 @@
-# picoCTF
-
 <p align="center"><img src="cover.png" alt="Cover Image"></p>
 
 ### WARNING
