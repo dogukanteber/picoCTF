@@ -1,8 +1,8 @@
-Run binwalk -e doll.jpg
+Run ```binwalk -e doll.jpg```
 
 Go extracted folder. 
 
-Run binwalk -e 2-c.jpg.
+Run ```binwalk -e 2-c.jpg.```
 
 Go extracted folder. 
 
