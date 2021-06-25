@@ -1,1 +1,1 @@
-Run strings static and find the flag in the output.
+Run ```strings static``` and find the flag in the output.
