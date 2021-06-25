@@ -1,0 +1,1 @@
+Type strings warm. And looking at the result, we see the flag.
