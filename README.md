@@ -1,6 +1,6 @@
 # picoCTF
 
-[Cover Image](cover.png)
+<p align="center"><img src="cover.png" alt="Cover Image"></p>
 
 ### WARNING
 
