@@ -10,7 +10,7 @@ It is all about picoCTF write-ups.
 
 ### Contribution
 
-If you find the explanaiton adequate ( which is totally normal, I am not good at explaining things ) you can create an issue or create a PR. There is no style format. Therefore, feel free to add your contribution.
+If you find the explanaiton inadequate ( which is totally normal, I am not good at explaining things ) you can create an issue or create a PR. There is no style format. Therefore, feel free to add your contribution.
 
 ### License
 
